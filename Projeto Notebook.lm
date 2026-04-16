@@ -1,0 +1,39 @@
+# 📘 Caderno Temático com NotebookLM — Machine Learning e MLOps
+
+Este projeto documenta o uso do NotebookLM como ferramenta de aprendizagem ativa para estudar Machine Learning e MLOps. A proposta foi utilizar diferentes fontes (vídeos, blogs e material autoral) e aplicar engenharia de prompts para transformar conteúdos dispersos em um miniguia estruturado, prático e reutilizável de Ciência de Dados.
+
+Mais do que gerar resumos com IA, o foco deste repositório é registrar o processo de curadoria de fontes, refinamento de perguntas, organização do conhecimento e consolidação do aprendizado a partir das respostas obtidas no NotebookLM.
+
+## 🎯 Contexto e Objetivos
+
+O objetivo deste caderno temático foi estudar Machine Learning e MLOps de forma aplicada, utilizando o NotebookLM como um “segundo cérebro” para organizar conteúdos, conectar conceitos e gerar materiais de revisão a partir de múltiplas fontes.
+
+Os principais objetivos deste estudo foram:
+
+- Entender os tipos de aprendizado de máquina e suas aplicações práticas
+- Compreender problemas clássicos como overfitting, underfitting, bias e variance
+- Visualizar o pipeline completo de um projeto de Machine Learning
+- Explorar conceitos de MLOps e segurança em modelos (ataques adversários e defesas)
+- Aprender a utilizar engenharia de prompts para extrair respostas mais completas e organizadas da IA
+
+- ## 📚 Curadoria de Fontes
+
+Para alimentar o NotebookLM, utilizei diferentes tipos de fontes, combinando vídeos para base conceitual e materiais textuais para consulta e análise.
+
+### 🎥 Vídeos utilizados como base de estudo
+https://www.youtube.com/watch?v=dLLw6QjADjo
+https://www.youtube.com/watch?v=xbez6jbJcC0
+https://www.youtube.com/watch?v=wFYAV_Wk5bc
+https://www.youtube.com/watch?v=Iuz_jc96bQk
+
+
+### 🌐 Blogs e sites utilizados como fonte textual
+https://cloud.google.com/learn/what-is-machine-learning?hl=pt-BR
+https://www.unesco.org/en/articles/ai-large-language-models-new-report-shows-small-changes-can-reduce-energy-use-90
+https://static.googleusercontent.com/media/research.google.com/pt-BR//pubs/archive/43146.pdf
+https://www.salesforce.com/br/blog/machine-learning/
+
+### ✍️ Fonte autoral criada
+
+> “Este material foi criado como um segundo cérebro para organizar, conectar e explicar de forma prática as principais técnicas de Machine Learning e seus tipos de aprendizado, servindo como base conceitual para consultas, revisões e geração de conhecimento aplicado no NotebookLM.”
+
